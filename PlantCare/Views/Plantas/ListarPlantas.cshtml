@@ -1,0 +1,56 @@
+﻿@model IEnumerable<PlantCare.Models.Planta>
+
+@{
+    ViewData["Title"] = "Minhas Plantas";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h1 class="display-6">Minhas Plantas</h1>
+    <a asp-action="CadastrarPlanta" class="btn btn-success">
+        <i class="bi bi-plus-circle-fill me-2"></i> Adicionar Nova Planta
+    </a>
+</div>
+
+<div class="card shadow-sm">
+    <div class="card-body">
+        <table class="table table-striped table-hover">
+            <thead class="table-dark">
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Nome)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.TipoPlanta)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DataCadastro)
+                    </th>
+                    <th>
+                        Ações
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+        @foreach (var item in Model) {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Nome)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TipoPlanta)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DataCadastro)
+                    </td>
+                    <td>
+                        <a asp-action="EditarPlanta" asp-route-id="@item.IdPlanta" class="btn btn-sm btn-primary">Editar</a> |
+                        <a asp-action="DetalharPlanta" asp-route-id="@item.IdPlanta" class="btn btn-sm btn-info">Detalhes</a> |
+                        <a asp-action="DeletarPlanta" asp-route-id="@item.IdPlanta" class="btn btn-sm btn-danger">Excluir</a>
+                    </td>
+                </tr>
+        }
+            </tbody>
+        </table>
+    </div>
+</div>
+

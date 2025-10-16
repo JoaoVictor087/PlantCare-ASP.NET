@@ -1,0 +1,98 @@
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\bin\Debug\net8.0\appsettings.json
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\bin\Debug\net8.0\PlantCare.staticwebassets.runtime.json
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\bin\Debug\net8.0\PlantCare.staticwebassets.endpoints.json
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\bin\Debug\net8.0\PlantCare.exe
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\bin\Debug\net8.0\PlantCare.deps.json
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\bin\Debug\net8.0\PlantCare.runtimeconfig.json
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\bin\Debug\net8.0\PlantCare.dll
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\bin\Debug\net8.0\PlantCare.pdb
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\obj\Debug\net8.0\PlantCare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\obj\Debug\net8.0\PlantCare.AssemblyInfoInputs.cache
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\obj\Debug\net8.0\PlantCare.AssemblyInfo.cs
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\obj\Debug\net8.0\PlantCare.csproj.CoreCompileInputs.cache
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\obj\Debug\net8.0\PlantCare.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\obj\Debug\net8.0\PlantCare.RazorAssemblyInfo.cache
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\obj\Debug\net8.0\PlantCare.RazorAssemblyInfo.cs
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\obj\Debug\net8.0\scopedcss\bundle\PlantCare.styles.css
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\obj\Debug\net8.0\scopedcss\projectbundle\PlantCare.bundle.scp.css
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\obj\Debug\net8.0\PlantCare.dll
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\obj\Debug\net8.0\refint\PlantCare.dll
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\obj\Debug\net8.0\PlantCare.pdb
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\obj\Debug\net8.0\PlantCare.genruntimeconfig.cache
+C:\Users\kenzo\Desktop\-\Fiap Aulas\2°Ano\ADB.Net\PlantCare\PlantCare\obj\Debug\net8.0\ref\PlantCare.dll
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\bin\Debug\net8.0\appsettings.json
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\bin\Debug\net8.0\PlantCare.staticwebassets.endpoints.json
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\bin\Debug\net8.0\PlantCare.staticwebassets.runtime.json
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\bin\Debug\net8.0\PlantCare.exe
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\bin\Debug\net8.0\PlantCare.deps.json
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\bin\Debug\net8.0\PlantCare.runtimeconfig.json
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\bin\Debug\net8.0\PlantCare.dll
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\bin\Debug\net8.0\PlantCare.pdb
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\obj\Debug\net8.0\PlantCare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\obj\Debug\net8.0\PlantCare.AssemblyInfoInputs.cache
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\obj\Debug\net8.0\PlantCare.AssemblyInfo.cs
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\obj\Debug\net8.0\PlantCare.csproj.CoreCompileInputs.cache
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\obj\Debug\net8.0\PlantCare.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\obj\Debug\net8.0\PlantCare.RazorAssemblyInfo.cache
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\obj\Debug\net8.0\PlantCare.RazorAssemblyInfo.cs
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\obj\Debug\net8.0\scopedcss\bundle\PlantCare.styles.css
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\obj\Debug\net8.0\scopedcss\projectbundle\PlantCare.bundle.scp.css
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\obj\Debug\net8.0\PlantCare.dll
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\obj\Debug\net8.0\refint\PlantCare.dll
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\obj\Debug\net8.0\PlantCare.pdb
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\obj\Debug\net8.0\PlantCare.genruntimeconfig.cache
+C:\Users\kenzo\Desktop\PlantCare\PlantCare\obj\Debug\net8.0\ref\PlantCare.dll
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\bin\Debug\net8.0\appsettings.json
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\bin\Debug\net8.0\PlantCare.staticwebassets.endpoints.json
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\bin\Debug\net8.0\PlantCare.staticwebassets.runtime.json
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\bin\Debug\net8.0\PlantCare.exe
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\bin\Debug\net8.0\PlantCare.deps.json
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\bin\Debug\net8.0\PlantCare.runtimeconfig.json
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\bin\Debug\net8.0\PlantCare.dll
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\bin\Debug\net8.0\PlantCare.pdb
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\obj\Debug\net8.0\PlantCare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\obj\Debug\net8.0\PlantCare.AssemblyInfoInputs.cache
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\obj\Debug\net8.0\PlantCare.AssemblyInfo.cs
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\obj\Debug\net8.0\PlantCare.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\obj\Debug\net8.0\PlantCare.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\obj\Debug\net8.0\PlantCare.RazorAssemblyInfo.cache
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\obj\Debug\net8.0\PlantCare.RazorAssemblyInfo.cs
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\obj\Debug\net8.0\scopedcss\bundle\PlantCare.styles.css
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\obj\Debug\net8.0\scopedcss\projectbundle\PlantCare.bundle.scp.css
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\obj\Debug\net8.0\PlantCare.dll
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\obj\Debug\net8.0\refint\PlantCare.dll
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\obj\Debug\net8.0\PlantCare.pdb
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\obj\Debug\net8.0\PlantCare.genruntimeconfig.cache
+C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\obj\Debug\net8.0\ref\PlantCare.dll
