@@ -1,86 +1,118 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kenzo\\Desktop\\PlantCare\\",
+  "WorkspaceRootPath": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare\\plantcare\\controllers\\plantascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\controllers\\plantascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare\\plantcare\\views\\plantas\\listarplantas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\views\\plantas\\listarplantas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare\\plantcare\\views\\plantas\\cadastrarplanta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\views\\plantas\\cadastrarplanta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare\\plantcare\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare\\plantcare\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare\\plantcare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare-sprint2\\plantcare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare\\plantcare\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare-sprint2\\plantcare\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare\\plantcare\\views\\plantas\\editarplanta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\views\\plantas\\editarplanta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare-sprint2\\plantcare\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare\\plantcare\\views\\plantas\\detalharplanta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\views\\plantas\\detalharplanta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare\\plantcare\\views\\plantas\\deletarplanta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\views\\plantas\\deletarplanta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare\\plantcare\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare\\plantcare\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare-sprint2\\plantcare\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare\\plantcare\\views\\plantas\\cadastrarplanta.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\views\\plantas\\cadastrarplanta.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare-sprint2\\plantcare\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare\\plantcare\\models\\planta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\models\\planta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare-sprint2\\plantcare\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare\\plantcare\\models\\leitura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\models\\leitura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare-sprint2\\plantcare\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare\\plantcare\\models\\recomendacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\models\\recomendacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare-sprint2\\plantcare\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare\\plantcare\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare-sprint2\\plantcare\\views\\planta\\listarplantas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\views\\planta\\listarplantas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare-sprint2\\plantcare\\views\\planta\\editarplanta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\views\\planta\\editarplanta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare-sprint2\\plantcare\\views\\planta\\detalharplanta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\views\\planta\\detalharplanta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare-sprint2\\plantcare\\views\\planta\\deletarplanta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\views\\planta\\deletarplanta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare-sprint2\\plantcare\\views\\planta\\cadastrarplanta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\views\\planta\\cadastrarplanta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare-sprint2\\plantcare\\persistencia\\plantcarecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\persistencia\\plantcarecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare-sprint2\\plantcare\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare\\plantcare\\models\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare-sprint2\\plantcare\\models\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\models\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare\\plantcare\\models\\alerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare-sprint2\\plantcare\\models\\recomendacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\models\\recomendacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare-sprint2\\plantcare\\models\\planta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\models\\planta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare-sprint2\\plantcare\\models\\leitura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\models\\leitura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare-sprint2\\plantcare\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare-sprint2\\plantcare\\models\\alerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\models\\alerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare\\plantcare\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare-sprint2\\plantcare\\migrations\\plantcarecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\migrations\\plantcarecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare-sprint2\\plantcare\\migrations\\20251104182658_bancoinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\migrations\\20251104182658_bancoinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare-sprint2\\plantcare\\controllers\\plantascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\controllers\\plantascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare-sprint2\\plantcare\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare-sprint2\\plantcare\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare-sprint2\\plantcare\\plantcare.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\plantcare.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|c:\\users\\kenzo\\desktop\\plantcare-sprint2\\plantcare\\views\\planta\\cadastrarplanta.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B4EE09-28D6-4CCD-972B-2FF87AD3B311}|PlantCare\\PlantCare.csproj|solutionrelative:plantcare\\views\\planta\\cadastrarplanta.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,7 +122,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,245 +130,364 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DetalharPlanta.cshtml",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Views\\Plantas\\DetalharPlanta.cshtml",
-              "RelativeDocumentMoniker": "PlantCare\\Views\\Plantas\\DetalharPlanta.cshtml",
-              "ToolTip": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Views\\Plantas\\DetalharPlanta.cshtml",
-              "RelativeToolTip": "PlantCare\\Views\\Plantas\\DetalharPlanta.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T17:42:23.828Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "DeletarPlanta.cshtml",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Views\\Plantas\\DeletarPlanta.cshtml",
-              "RelativeDocumentMoniker": "PlantCare\\Views\\Plantas\\DeletarPlanta.cshtml",
-              "ToolTip": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Views\\Plantas\\DeletarPlanta.cshtml",
-              "RelativeToolTip": "PlantCare\\Views\\Plantas\\DeletarPlanta.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T17:42:01.077Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "EditarPlanta.cshtml",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Views\\Plantas\\EditarPlanta.cshtml",
-              "RelativeDocumentMoniker": "PlantCare\\Views\\Plantas\\EditarPlanta.cshtml",
-              "ToolTip": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Views\\Plantas\\EditarPlanta.cshtml",
-              "RelativeToolTip": "PlantCare\\Views\\Plantas\\EditarPlanta.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Views\\Planta\\EditarPlanta.cshtml",
+              "RelativeDocumentMoniker": "PlantCare\\Views\\Planta\\EditarPlanta.cshtml",
+              "ToolTip": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Views\\Planta\\EditarPlanta.cshtml",
+              "RelativeToolTip": "PlantCare\\Views\\Planta\\EditarPlanta.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T17:41:43.389Z"
+              "WhenOpened": "2025-10-15T17:41:43.389Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "ListarPlantas.cshtml",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Views\\Plantas\\ListarPlantas.cshtml",
-              "RelativeDocumentMoniker": "PlantCare\\Views\\Plantas\\ListarPlantas.cshtml",
-              "ToolTip": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Views\\Plantas\\ListarPlantas.cshtml",
-              "RelativeToolTip": "PlantCare\\Views\\Plantas\\ListarPlantas.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Views\\Planta\\ListarPlantas.cshtml",
+              "RelativeDocumentMoniker": "PlantCare\\Views\\Planta\\ListarPlantas.cshtml",
+              "ToolTip": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Views\\Planta\\ListarPlantas.cshtml",
+              "RelativeToolTip": "PlantCare\\Views\\Planta\\ListarPlantas.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-15T17:40:07.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PlantCare\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PlantCare\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA4AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T18:25:57.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "PlantCare\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "PlantCare\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T02:37:22.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Program.cs",
-              "RelativeDocumentMoniker": "PlantCare\\Program.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Program.cs",
-              "RelativeToolTip": "PlantCare\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T20:29:48.976Z"
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "PlantCare\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "PlantCare\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T21:21:51.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PlantCare\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PlantCare\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T17:40:22.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PlantCare\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PlantCare\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T18:26:55.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PlantCare\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\appsettings.Development.json",
+              "RelativeToolTip": "PlantCare\\appsettings.Development.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-06T14:18:32.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\appsettings.json",
+              "RelativeDocumentMoniker": "PlantCare\\appsettings.json",
+              "ToolTip": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\appsettings.json",
+              "RelativeToolTip": "PlantCare\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T15:38:41.355Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Program.cs",
+              "RelativeDocumentMoniker": "PlantCare\\Program.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Program.cs",
+              "RelativeToolTip": "PlantCare\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T20:29:48.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DetalharPlanta.cshtml",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Views\\Planta\\DetalharPlanta.cshtml",
+              "RelativeDocumentMoniker": "PlantCare\\Views\\Planta\\DetalharPlanta.cshtml",
+              "ToolTip": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Views\\Planta\\DetalharPlanta.cshtml",
+              "RelativeToolTip": "PlantCare\\Views\\Planta\\DetalharPlanta.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T17:42:23.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeletarPlanta.cshtml",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Views\\Planta\\DeletarPlanta.cshtml",
+              "RelativeDocumentMoniker": "PlantCare\\Views\\Planta\\DeletarPlanta.cshtml",
+              "ToolTip": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Views\\Planta\\DeletarPlanta.cshtml",
+              "RelativeToolTip": "PlantCare\\Views\\Planta\\DeletarPlanta.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T17:42:01.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CadastrarPlanta.cshtml",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Views\\Planta\\CadastrarPlanta.cshtml",
+              "RelativeDocumentMoniker": "PlantCare\\Views\\Planta\\CadastrarPlanta.cshtml",
+              "ToolTip": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Views\\Planta\\CadastrarPlanta.cshtml",
+              "RelativeToolTip": "PlantCare\\Views\\Planta\\CadastrarPlanta.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T17:41:04.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlantCareContext.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Persistencia\\PlantCareContext.cs",
+              "RelativeDocumentMoniker": "PlantCare\\Persistencia\\PlantCareContext.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Persistencia\\PlantCareContext.cs",
+              "RelativeToolTip": "PlantCare\\Persistencia\\PlantCareContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T17:46:07.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "PlantCare\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Models\\Usuario.cs",
+              "RelativeToolTip": "PlantCare\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T17:36:17.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Sensor.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Models\\Sensor.cs",
+              "RelativeDocumentMoniker": "PlantCare\\Models\\Sensor.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Models\\Sensor.cs",
+              "RelativeToolTip": "PlantCare\\Models\\Sensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T17:36:38.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Recomendacao.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Models\\Recomendacao.cs",
+              "RelativeDocumentMoniker": "PlantCare\\Models\\Recomendacao.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Models\\Recomendacao.cs",
+              "RelativeToolTip": "PlantCare\\Models\\Recomendacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T17:37:32.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Planta.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Models\\Planta.cs",
+              "RelativeDocumentMoniker": "PlantCare\\Models\\Planta.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Models\\Planta.cs",
+              "RelativeToolTip": "PlantCare\\Models\\Planta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T17:36:29.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Leitura.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Models\\Leitura.cs",
+              "RelativeDocumentMoniker": "PlantCare\\Models\\Leitura.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Models\\Leitura.cs",
+              "RelativeToolTip": "PlantCare\\Models\\Leitura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T17:36:49.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PlantCare\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "PlantCare\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T17:35:48.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Alerta.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Models\\Alerta.cs",
+              "RelativeDocumentMoniker": "PlantCare\\Models\\Alerta.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Models\\Alerta.cs",
+              "RelativeToolTip": "PlantCare\\Models\\Alerta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T17:37:19.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PlantCareContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Migrations\\PlantCareContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "PlantCare\\Migrations\\PlantCareContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Migrations\\PlantCareContextModelSnapshot.cs",
+              "RelativeToolTip": "PlantCare\\Migrations\\PlantCareContextModelSnapshot.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T18:27:19.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20251104182658_BancoInicial.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Migrations\\20251104182658_BancoInicial.cs",
+              "RelativeDocumentMoniker": "PlantCare\\Migrations\\20251104182658_BancoInicial.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Migrations\\20251104182658_BancoInicial.cs",
+              "RelativeToolTip": "PlantCare\\Migrations\\20251104182658_BancoInicial.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T18:26:58.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "PlantasController.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Controllers\\PlantasController.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Controllers\\PlantasController.cs",
               "RelativeDocumentMoniker": "PlantCare\\Controllers\\PlantasController.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Controllers\\PlantasController.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Controllers\\PlantasController.cs",
               "RelativeToolTip": "PlantCare\\Controllers\\PlantasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAH4AAAAAAAAAAAA3wBEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T17:37:56.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CadastrarPlanta.cshtml",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Views\\Plantas\\CadastrarPlanta.cshtml",
-              "RelativeDocumentMoniker": "PlantCare\\Views\\Plantas\\CadastrarPlanta.cshtml",
-              "ToolTip": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Views\\Plantas\\CadastrarPlanta.cshtml",
-              "RelativeToolTip": "PlantCare\\Views\\Plantas\\CadastrarPlanta.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T17:41:04.493Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "PlantCare\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "PlantCare\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T18:25:57.482Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "PlantCare\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "PlantCare\\Views\\Shared\\Error.cshtml",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PlantCare\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PlantCare\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T21:21:51.452Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-06T22:50:18.081Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "PlantCare\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "PlantCare\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-16T02:37:22.231Z"
+              "DocumentIndex": 25,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "PlantCare\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "PlantCare\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-06T14:18:52.588Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 26,
+              "Title": "PlantCare.csproj",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\PlantCare.csproj",
+              "RelativeDocumentMoniker": "PlantCare\\PlantCare.csproj",
+              "ToolTip": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\PlantCare.csproj",
+              "RelativeToolTip": "PlantCare\\PlantCare.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-04T17:45:26.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "CadastrarPlanta.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Views\\Plantas\\CadastrarPlanta.cshtml.cs",
-              "RelativeDocumentMoniker": "PlantCare\\Views\\Plantas\\CadastrarPlanta.cshtml.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Views\\Plantas\\CadastrarPlanta.cshtml.cs",
-              "RelativeToolTip": "PlantCare\\Views\\Plantas\\CadastrarPlanta.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Views\\Planta\\CadastrarPlanta.cshtml.cs",
+              "RelativeDocumentMoniker": "PlantCare\\Views\\Planta\\CadastrarPlanta.cshtml.cs",
+              "ToolTip": "C:\\Users\\kenzo\\Desktop\\plantcare-sprint2\\PlantCare\\Views\\Planta\\CadastrarPlanta.cshtml.cs",
+              "RelativeToolTip": "PlantCare\\Views\\Planta\\CadastrarPlanta.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T18:18:41.961Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Recomendacao.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Models\\Recomendacao.cs",
-              "RelativeDocumentMoniker": "PlantCare\\Models\\Recomendacao.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Models\\Recomendacao.cs",
-              "RelativeToolTip": "PlantCare\\Models\\Recomendacao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T17:37:32.895Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Leitura.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Models\\Leitura.cs",
-              "RelativeDocumentMoniker": "PlantCare\\Models\\Leitura.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Models\\Leitura.cs",
-              "RelativeToolTip": "PlantCare\\Models\\Leitura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T17:36:49.237Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "PlantCare\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "PlantCare\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T18:26:55.394Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "PlantCare\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "PlantCare\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-15T17:40:22.628Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Sensor.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Models\\Sensor.cs",
-              "RelativeDocumentMoniker": "PlantCare\\Models\\Sensor.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Models\\Sensor.cs",
-              "RelativeToolTip": "PlantCare\\Models\\Sensor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T17:36:38.302Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Alerta.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Models\\Alerta.cs",
-              "RelativeDocumentMoniker": "PlantCare\\Models\\Alerta.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Models\\Alerta.cs",
-              "RelativeToolTip": "PlantCare\\Models\\Alerta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T17:37:19.707Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Planta.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Models\\Planta.cs",
-              "RelativeDocumentMoniker": "PlantCare\\Models\\Planta.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Models\\Planta.cs",
-              "RelativeToolTip": "PlantCare\\Models\\Planta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T17:36:29.297Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "PlantCare\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Models\\Usuario.cs",
-              "RelativeToolTip": "PlantCare\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T17:36:17.829Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "PlantCare\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\kenzo\\Desktop\\PlantCare\\PlantCare\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "PlantCare\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T17:35:48.179Z"
             }
           ]
         }

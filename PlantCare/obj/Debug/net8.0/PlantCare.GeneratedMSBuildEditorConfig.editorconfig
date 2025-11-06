@@ -1,61 +1,69 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PlantCare
 build_property.RootNamespace = PlantCare
-build_property.ProjectDir = C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare\
+build_property.ProjectDir = C:\Users\kenzo\Desktop\plantcare-sprint2\PlantCare\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\joaov\Downloads\PlantCare\PlantCare\PlantCare
+build_property.MSBuildProjectDirectory = C:\Users\kenzo\Desktop\plantcare-sprint2\PlantCare
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/joaov/Downloads/PlantCare/PlantCare/PlantCare/Views/Plantas/CadastrarPlanta.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnRhc1xDYWRhc3RyYXJQbGFudGEuY3NodG1s
+[C:/Users/kenzo/Desktop/plantcare-sprint2/PlantCare/Views/Planta/CadastrarPlanta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnRhXENhZGFzdHJhclBsYW50YS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joaov/Downloads/PlantCare/PlantCare/PlantCare/Views/Plantas/DeletarPlanta.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnRhc1xEZWxldGFyUGxhbnRhLmNzaHRtbA==
+[C:/Users/kenzo/Desktop/plantcare-sprint2/PlantCare/Views/Planta/DeletarPlanta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnRhXERlbGV0YXJQbGFudGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joaov/Downloads/PlantCare/PlantCare/PlantCare/Views/Plantas/DetalharPlanta.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnRhc1xEZXRhbGhhclBsYW50YS5jc2h0bWw=
+[C:/Users/kenzo/Desktop/plantcare-sprint2/PlantCare/Views/Planta/DetalharPlanta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnRhXERldGFsaGFyUGxhbnRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joaov/Downloads/PlantCare/PlantCare/PlantCare/Views/Plantas/EditarPlanta.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnRhc1xFZGl0YXJQbGFudGEuY3NodG1s
+[C:/Users/kenzo/Desktop/plantcare-sprint2/PlantCare/Views/Planta/EditarPlanta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnRhXEVkaXRhclBsYW50YS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joaov/Downloads/PlantCare/PlantCare/PlantCare/Views/Plantas/ListarPlantas.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnRhc1xMaXN0YXJQbGFudGFzLmNzaHRtbA==
+[C:/Users/kenzo/Desktop/plantcare-sprint2/PlantCare/Views/Planta/ListarPlantas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnRhXExpc3RhclBsYW50YXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joaov/Downloads/PlantCare/PlantCare/PlantCare/Views/Shared/Error.cshtml]
+[C:/Users/kenzo/Desktop/plantcare-sprint2/PlantCare/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joaov/Downloads/PlantCare/PlantCare/PlantCare/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/kenzo/Desktop/plantcare-sprint2/PlantCare/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joaov/Downloads/PlantCare/PlantCare/PlantCare/Views/_ViewImports.cshtml]
+[C:/Users/kenzo/Desktop/plantcare-sprint2/PlantCare/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joaov/Downloads/PlantCare/PlantCare/PlantCare/Views/_ViewStart.cshtml]
+[C:/Users/kenzo/Desktop/plantcare-sprint2/PlantCare/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joaov/Downloads/PlantCare/PlantCare/PlantCare/Views/Shared/_Layout.cshtml]
+[C:/Users/kenzo/Desktop/plantcare-sprint2/PlantCare/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-xwhywurk0r

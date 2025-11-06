@@ -1,0 +1,11 @@
+﻿@model PlantCare.Models.Planta
+
+<h2>Excluir Planta</h2>
+
+<p>Tem certeza que deseja excluir <strong>@Model.NmPlanta</strong>?</p>
+
+<form asp-action="DeletarConfirmado" method="post">
+    <input type="hidden" asp-for="IdPlanta" />
+    <button type="submit" class="btn btn-danger">Sim, excluir</button>
+    <a asp-action="ListarPlantas" class="btn btn-secondary">Cancelar</a>
+</form>

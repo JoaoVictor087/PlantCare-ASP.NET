@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlantCare")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6df37274b10d6f6de561a47de693b7c869c381b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlantCare")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlantCare")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

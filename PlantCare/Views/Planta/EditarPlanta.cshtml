@@ -1,0 +1,34 @@
+﻿@model PlantCare.Models.Planta
+
+@{
+    ViewData["Title"] = "Editar Planta";
+}
+
+<h2>Editar Planta</h2>
+
+<form asp-action="EditarPlanta" method="post">
+    <input type="hidden" asp-for="IdPlanta" />
+
+    <div class="form-group">
+        <label asp-for="NmPlanta" class="control-label"></label>
+        <input asp-for="NmPlanta" class="form-control" />
+        <span asp-validation-for="NmPlanta" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="TipoPlanta" class="control-label"></label>
+        <input asp-for="TipoPlanta" class="form-control" />
+        <span asp-validation-for="TipoPlanta" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="IdUsuario" class="control-label">Usuário Responsável</label>
+        <select asp-for="IdUsuario" class="form-control"
+                asp-items="@(ViewBag.Usuarios as SelectList)">
+            <option value="">Selecione um usuário</option>
+        </select>
+        <span asp-validation-for="IdUsuario" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-3">Salvar</button>
+</form>

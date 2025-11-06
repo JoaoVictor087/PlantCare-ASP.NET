@@ -1,0 +1,28 @@
+﻿@model PlantCare.Models.Planta
+
+<h2>Cadastrar Planta</h2>
+
+<form asp-action="CadastrarPlanta" method="post">
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        <label for="NmPlanta">Nome da Planta</label>
+        <input asp-for="NmPlanta" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label for="TipoPlanta">Tipo</label>
+        <input asp-for="TipoPlanta" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label for="IdUsuario">Usuário</label>
+        <select asp-for="IdUsuario" class="form-control"
+                asp-items="@(new SelectList(ViewBag.Usuarios, "IdUsuario", "NmUsuario"))">
+            <option value="">Selecione um usuário</option>
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-success">Adicionar</button>
+    <a asp-action="ListarPlantas" class="btn btn-secondary">Voltar</a>
+</form>

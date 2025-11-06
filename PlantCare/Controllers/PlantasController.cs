@@ -1,81 +1,138 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
 using PlantCare.Models;
-
+using PlantCare.Persistencia;
 
 namespace PlantCare.Controllers
 {
-    public class PlantasController : Controller
+    public class PlantaController : Controller
     {
-        private static List<Usuario> usuarios = new()
-        {
-            new Usuario { IdUsuario = 1, Nome = "Vinicius", Email = "vinicius@plantcare.com", Senha = "1234" },
-            new Usuario { IdUsuario = 2, Nome = "Joao", Email = "joao@plantcare.com", Senha = "abcd" },
-            new Usuario { IdUsuario = 3, Nome = "Marcel", Email = "marcel@plantcare.com", Senha = "1a2b" }
-        };
+        private readonly PlantCareContext _context;
 
-        private static List<Planta> plantas = new();
-        private static int contador = 1;
-
-        public IActionResult ListarPlantas(string busca)
+        public PlantaController(PlantCareContext context)
         {
-            var lista = string.IsNullOrEmpty(busca)
-                ? plantas
-                : plantas.Where(p => p.Nome.Contains(busca, StringComparison.OrdinalIgnoreCase)).ToList();
-            ViewBag.Usuarios = usuarios;
+            _context = context;
+        }
+
+        
+        [HttpGet]
+        public IActionResult ListarPlantas()
+        {
+            var lista = _context.Plantas
+                .Include(p => p.Usuario) 
+                .ToList();
+
             return View(lista);
         }
 
+        public IActionResult BuscarPlanta(string busca)
+        {
+            if (string.IsNullOrEmpty(busca))
+            {
+                return RedirectToAction("ListarPlantas");
+            }
+
+            var plantasFiltradas = _context.Plantas
+                .Include(p => p.Usuario)
+                .Where(p => p.NmPlanta.Contains(busca) || p.TipoPlanta.Contains(busca))
+                .ToList();
+
+            return View("ListarPlantas", plantasFiltradas);
+        }
+
+        
+        [HttpGet]
         public IActionResult CadastrarPlanta()
         {
-            ViewBag.Usuarios = usuarios;
+            
+            ViewBag.Usuarios = _context.Usuarios
+                                        .Select(u => new { u.IdUsuario, u.NmUsuario })
+                                        .ToList();
+
             return View();
         }
 
+        
         [HttpPost]
         public IActionResult CadastrarPlanta(Planta planta)
         {
-            planta.IdPlanta = contador++;
-            planta.DataCadastro = DateTime.Now;
-            planta.IdUsuario = planta.IdUsuario;
-            plantas.Add(planta);
-            return RedirectToAction("ListarPlantas");
-        }
+            if (ModelState.IsValid)
+            {
+                _context.Plantas.Add(planta);
+                _context.SaveChanges();
+                return RedirectToAction("CadastrarPlanta"); 
+            }
 
-        public IActionResult EditarPlanta(int id)
-        {
-            var planta = plantas.FirstOrDefault(p => p.IdPlanta == id);
-            ViewBag.Usuarios = usuarios;
+            
+            ViewBag.Usuarios = new SelectList(_context.Usuarios.ToList(), "IdUsuario", "NmUsuario", planta.IdUsuario);
             return View(planta);
         }
 
+      
+        [HttpGet]
+        public IActionResult EditarPlanta(int id)
+        {
+            var planta = _context.Plantas.Find(id);
+            if (planta == null) return NotFound();
+
+            ViewBag.Usuarios = new SelectList(_context.Usuarios.ToList(), "IdUsuario", "NmUsuario", planta.IdUsuario);
+            return View(planta);
+        }
+
+        
         [HttpPost]
         public IActionResult EditarPlanta(Planta planta)
         {
-            var p = plantas.FirstOrDefault(x => x.IdPlanta == planta.IdPlanta);
-            p.Nome = planta.Nome;
-            p.TipoPlanta = planta.TipoPlanta;
-            p.IdUsuario = planta.IdUsuario;
-            p.IdUsuario = planta.IdUsuario;
-            return RedirectToAction("ListarPlantas");
+            if (ModelState.IsValid)
+            {
+                _context.Plantas.Update(planta);
+                _context.SaveChanges();
+                return RedirectToAction("ListarPlantas");
+            }
+
+            ViewBag.Usuarios = new SelectList(_context.Usuarios.ToList(), "IdUsuario", "NmUsuario", planta.IdUsuario);
+            return View(planta);
         }
 
+
+        [HttpGet]
         public IActionResult DetalharPlanta(int id)
         {
-            var planta = plantas.FirstOrDefault(p => p.IdPlanta == id);
-            ViewBag.Usuarios = usuarios;
+            var planta = _context.Plantas
+                                .Include(p => p.Usuario)
+                                .FirstOrDefault(p => p.IdPlanta == id);
+
+            if (planta == null)
+                return NotFound();
+
             return View(planta);
         }
 
+        [HttpGet]
         public IActionResult DeletarPlanta(int id)
         {
-            var planta = plantas.FirstOrDefault(p => p.IdPlanta == id);
+            var planta = _context.Plantas
+                                 .Include(p => p.Usuario)
+                                 .FirstOrDefault(p => p.IdPlanta == id);
+
+            if (planta == null)
+                return NotFound();
+
             return View(planta);
         }
 
-        [HttpPost, ActionName("DeletarPlanta")]
-        public IActionResult ConfirmarDelete(int id)
+        
+        [HttpPost]
+        public IActionResult DeletarConfirmado(int idPlanta)
         {
-            plantas.RemoveAll(p => p.IdPlanta == id);
+            var planta = _context.Plantas.Find(idPlanta);
+            if (planta != null)
+            {
+                _context.Plantas.Remove(planta);
+                _context.SaveChanges();
+            }
+
             return RedirectToAction("ListarPlantas");
         }
     }

@@ -1,0 +1,19 @@
+﻿@model PlantCare.Models.Planta
+
+@{
+    ViewData["Title"] = "Detalhar Planta";
+}
+
+<h2>Detalhes da Planta</h2>
+
+<div class="card mt-3">
+    <div class="card-body">
+        <p><strong>ID:</strong> @Model.IdPlanta</p>
+        <p><strong>Nome:</strong> @Model.NmPlanta</p>
+        <p><strong>Tipo:</strong> @Model.TipoPlanta</p>
+        <p><strong>Usuário:</strong> @Model.Usuario?.NmUsuario</p>
+    </div>
+</div>
+
+<a asp-action="EditarPlanta" asp-route-id="@Model.IdPlanta" class="btn btn-warning mt-3">Editar</a>
+<a asp-action="DeletarPlanta" asp-route-id="@Model.IdPlanta" class="btn btn-danger mt-3">Excluir</a>

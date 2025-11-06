@@ -1,0 +1,39 @@
+﻿@model IEnumerable<PlantCare.Models.Planta>
+
+<h2>Lista de Plantas</h2>
+
+<a asp-action="CadastrarPlanta" class="btn btn-success mb-3">Nova Planta</a>
+
+<form asp-action="BuscarPlanta" method="get" class="d-flex mb-3">
+    <input type="text" name="busca" class="form-control me-2" placeholder="Pesquisar planta..." />
+    <button type="submit" class="btn btn-outline-success">Buscar</button>
+</form>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Tipo</th>
+            <th>Usuário</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var planta in Model)
+        {
+            <tr>
+                <td>@planta.NmPlanta</td>
+                <td>@planta.TipoPlanta</td>
+                <td>@planta.Usuario?.NmUsuario</td>
+                <td>
+                    <a asp-action="EditarPlanta" asp-route-id="@planta.IdPlanta" class="btn btn-primary btn-sm">Editar</a>
+
+                    <a asp-action="DeletarPlanta" asp-route-id="@planta.IdPlanta" class="btn btn-danger btn-sm">Excluir</a>
+
+
+                    <a asp-action="DetalharPlanta" asp-route-id="@planta.IdPlanta" class="btn btn-secondary btn-sm">Detalhar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
